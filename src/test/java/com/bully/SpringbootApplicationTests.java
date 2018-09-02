@@ -1,4 +1,4 @@
-package com.bully.springboot;
+package com.bully;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
